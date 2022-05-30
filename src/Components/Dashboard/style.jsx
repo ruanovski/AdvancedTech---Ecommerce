@@ -58,6 +58,7 @@ export const Container = styled.div`
         border-radius: 21px;
         color: white;
         margin-top: 10px;
+        cursor: pointer;
 }
     }
 
