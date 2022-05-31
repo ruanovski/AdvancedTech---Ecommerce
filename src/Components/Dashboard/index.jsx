@@ -77,11 +77,11 @@ export function Dashboard() {
           <div className="image-itens">
             <a href="#">
               <img src={ssdK} alt="ssd para notbook" />
-              <p className="price">R$250,00</p>
             </a>
           </div>
           <div className="description">
-            <a href="#"> SSD A400, Kingston</a>
+            <a href="#"> SSD A400, Kingston, SA400S37/240G, Cinza</a>
+            <p className="price">R$250,00</p>
           </div>
           <button>Comprar</button>
         </div>

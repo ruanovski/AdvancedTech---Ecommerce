@@ -5,7 +5,7 @@ export const Container = styled.div`
 
   .side-menu-itens {
     height: calc(100vh - 65px);
-    width: 200px;
+    width: 280px;
     background-color: #f5f5f5;
 
 
