@@ -3,8 +3,8 @@ import styled from "styled-components";
 export const Container = styled.div`
   display: flex;
 
+
   .side-menu-itens {
-    height: calc(100vh - 65px);
     width: 280px;
     background-color: #f5f5f5;
 
